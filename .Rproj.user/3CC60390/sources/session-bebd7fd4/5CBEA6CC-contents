@@ -1,0 +1,7 @@
+
+library(readr)
+List_of_best_selling_mobile_phones <- read_csv("List of best-selling mobile phones.csv")
+View(List_of_best_selling_mobile_phones)
+
+
+str(List_of_best_selling_mobile_phones)
